@@ -1,0 +1,4 @@
+MPU6050.c:26:6:delay	16	static
+MPU6050.c:42:6:I2C1_GPIOInits	24	static
+MPU6050.c:64:6:I2C1_Inits	8	static
+MPU6050.c:76:5:main	16	static
